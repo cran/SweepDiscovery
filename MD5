@@ -1,0 +1,6 @@
+e56bbef2e25be5415e18f21fa208ab4f *DESCRIPTION
+f5d1def9d5c8f81c56114b56deea2f38 *NAMESPACE
+ee16dcbec20e7b7db967c64f8f82ff93 *R/SweepPrediction.R
+d5d7e2ce5c857b6be7eddccb667fa78c *inst/extdata/data.csv
+a4a8e03da8d0cad4489bc44dbae12bab *inst/extdata/rf.rds
+66408abcc2d4257fcb5cd7180e288f1f *man/SweepPrediction.Rd
